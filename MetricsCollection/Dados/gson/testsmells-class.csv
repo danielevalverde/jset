@@ -1,0 +1,5 @@
+App,TestFileName,ProductionFileName,LOC,numberMethods,Assertion Roulette,Eager Test,Mystery Guest,Sleepy Test,Unknown Test,Redundant Assertion,Dependent Test,Magic Number Test,Conditional Test Logic,EmptyTest,General Fixture,IgnoredTest,Sensitive Equality,Verbose Test,Default Test,Resource Optimism,Duplicate Assert,Exception Catching Throwing,Constructor Initialization,Print Statement,Lazy Test
+gson,JavaVersionTest,/home/luana-martins/.jnose_projects/gson/gson/src/main/java/com/google/gson/internal/JavaVersion.java,81,7,17,0,0,0,1,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,1
+gson,GsonBuildConfigTest,/home/luana-martins/.jnose_projects/gson/gson/src/main/java-templates/com/google/gson/internal/GsonBuildConfig.java,33,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gson,ISO8601UtilsTest,/home/luana-martins/.jnose_projects/gson/gson/src/main/java/com/google/gson/internal/bind/util/ISO8601Utils.java,101,8,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,2
+gson,UnsafeReflectionAccessorTest,/home/luana-martins/.jnose_projects/gson/gson/src/main/java/com/google/gson/internal/reflect/UnsafeReflectionAccessor.java,51,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0

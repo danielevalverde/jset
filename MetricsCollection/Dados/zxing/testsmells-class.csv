@@ -1,0 +1,11 @@
+App,TestFileName,ProductionFileName,LOC,numberMethods,Assertion Roulette,Eager Test,Mystery Guest,Sleepy Test,Unknown Test,Redundant Assertion,Dependent Test,Magic Number Test,Conditional Test Logic,EmptyTest,General Fixture,IgnoredTest,Sensitive Equality,Verbose Test,Default Test,Resource Optimism,Duplicate Assert,Exception Catching Throwing,Constructor Initialization,Print Statement,Lazy Test
+zxing,EANManufacturerOrgSupportTest,/home/luana-martins/.jnose_projects/zxing/core/src/main/java/com/google/zxing/oned/EANManufacturerOrgSupport.java,39,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+zxing,AI013X0X1XDecoderTest,/home/luana-martins/.jnose_projects/zxing/core/src/main/java/com/google/zxing/oned/rss/expanded/decoders/AI013x0x1xDecoder.java,117,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+zxing,AnyAIDecoderTest,/home/luana-martins/.jnose_projects/zxing/core/src/main/java/com/google/zxing/oned/rss/expanded/decoders/AnyAIDecoder.java,85,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+zxing,AI013103DecoderTest,/home/luana-martins/.jnose_projects/zxing/core/src/main/java/com/google/zxing/oned/rss/expanded/decoders/AI013103decoder.java,58,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+zxing,FieldParserTest,/home/luana-martins/.jnose_projects/zxing/core/src/main/java/com/google/zxing/oned/rss/expanded/decoders/FieldParser.java,54,3,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+zxing,BinaryUtilTest,/home/luana-martins/.jnose_projects/zxing/core/src/test/java/com/google/zxing/oned/rss/expanded/BinaryUtil.java,90,5,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+zxing,BitArrayBuilderTest,/home/luana-martins/.jnose_projects/zxing/core/src/main/java/com/google/zxing/oned/rss/expanded/BitArrayBuilder.java,85,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+zxing,DetectorTest,/home/luana-martins/.jnose_projects/zxing/core/src/main/java/com/google/zxing/pdf417/detector/Detector.java,189,10,4,0,0,0,3,0,0,0,9,0,0,1,0,1,0,0,0,1,0,0,0
+zxing,DecoderTest,/home/luana-martins/.jnose_projects/zxing/core/src/main/java/com/google/zxing/aztec/decoder/Decoder.java,221,8,11,0,0,0,1,0,0,1,0,0,0,1,0,3,0,0,0,0,0,0,1
+zxing,EncoderTest,/home/luana-martins/.jnose_projects/zxing/core/src/main/java/com/google/zxing/aztec/encoder/Encoder.java,603,37,19,0,0,0,15,0,0,4,14,0,0,7,3,4,0,0,3,3,0,0,1

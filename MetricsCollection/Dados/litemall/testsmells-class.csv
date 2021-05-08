@@ -1,0 +1,11 @@
+App,TestFileName,ProductionFileName,LOC,numberMethods,Assertion Roulette,Eager Test,Mystery Guest,Sleepy Test,Unknown Test,Redundant Assertion,Dependent Test,Magic Number Test,Conditional Test Logic,EmptyTest,General Fixture,IgnoredTest,Sensitive Equality,Verbose Test,Default Test,Resource Optimism,Duplicate Assert,Exception Catching Throwing,Constructor Initialization,Print Statement,Lazy Test
+litemall,LocalStorageTest,/home/luana-martins/.jnose_projects/litemall/litemall-core/src/main/java/org/linlinjava/litemall/core/storage/LocalStorage.java,40,3,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+litemall,TencentStorageTest,/home/luana-martins/.jnose_projects/litemall/litemall-core/src/main/java/org/linlinjava/litemall/core/storage/TencentStorage.java,40,3,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+litemall,BCryptTest,/home/luana-martins/.jnose_projects/litemall/litemall-core/src/main/java/org/linlinjava/litemall/core/util/bcrypt/BCrypt.java,120,16,7,1,0,0,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+litemall,AliyunStorageTest,/home/luana-martins/.jnose_projects/litemall/litemall-core/src/main/java/org/linlinjava/litemall/core/storage/AliyunStorage.java,39,3,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+litemall,QiniuStorageTest,/home/luana-martins/.jnose_projects/litemall/litemall-core/src/main/java/org/linlinjava/litemall/core/storage/QiniuStorage.java,40,3,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+litemall,WxConfigTest,/home/luana-martins/.jnose_projects/litemall/litemall-core/src/main/java/org/linlinjava/litemall/core/config/WxConfig.java,32,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+litemall,StatMapperTest,/home/luana-martins/.jnose_projects/litemall/litemall-db/src/main/java/org/linlinjava/litemall/db/dao/StatMapper.java,47,4,0,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0,3,0
+litemall,DbUtilTest,/home/luana-martins/.jnose_projects/litemall/litemall-db/src/main/java/org/linlinjava/litemall/db/util/DbUtil.java,21,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+litemall,PermissionTest,/home/luana-martins/.jnose_projects/litemall/litemall-admin-api/src/main/java/org/linlinjava/litemall/admin/util/Permission.java,31,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+litemall,BcryptTest,/home/luana-martins/.jnose_projects/litemall/litemall-core/src/main/java/org/linlinjava/litemall/core/util/bcrypt/BCrypt.java,25,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0

@@ -1,0 +1,4 @@
+App,TestFileName,ProductionFileName,LOC,numberMethods,Assertion Roulette,Eager Test,Mystery Guest,Sleepy Test,Unknown Test,Redundant Assertion,Dependent Test,Magic Number Test,Conditional Test Logic,EmptyTest,General Fixture,IgnoredTest,Sensitive Equality,Verbose Test,Default Test,Resource Optimism,Duplicate Assert,Exception Catching Throwing,Constructor Initialization,Print Statement,Lazy Test
+eladmin,FileUtilTest,/home/luana-martins/.jnose_projects/eladmin/eladmin-common/src/main/java/me/zhengjie/utils/FileUtil.java,36,4,9,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+eladmin,StringUtilsTest,/home/luana-martins/.jnose_projects/eladmin/eladmin-common/src/main/java/me/zhengjie/utils/StringUtils.java,43,5,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+eladmin,EncryptUtilsTest,/home/luana-martins/.jnose_projects/eladmin/eladmin-common/src/main/java/me/zhengjie/utils/EncryptUtils.java,32,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0

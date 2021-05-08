@@ -1,0 +1,19 @@
+App,TestFileName,ProductionFileName,LOC,numberMethods,Assertion Roulette,Eager Test,Mystery Guest,Sleepy Test,Unknown Test,Redundant Assertion,Dependent Test,Magic Number Test,Conditional Test Logic,EmptyTest,General Fixture,IgnoredTest,Sensitive Equality,Verbose Test,Default Test,Resource Optimism,Duplicate Assert,Exception Catching Throwing,Constructor Initialization,Print Statement,Lazy Test
+guava,TraverserTest,/home/luana-martins/.jnose_projects/guava/android/guava/src/com/google/common/graph/Traverser.java,1278,129,28,106,0,0,3,0,0,28,0,0,0,0,0,0,0,0,30,15,0,0,10
+guava,AbstractNetworkTest,/home/luana-martins/.jnose_projects/guava/android/guava/src/com/google/common/graph/AbstractNetwork.java,848,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+guava,ImmutableValueGraphTest,/home/luana-martins/.jnose_projects/guava/android/guava/src/com/google/common/graph/ImmutableValueGraph.java,179,12,24,10,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,5
+guava,ValueGraphTest,/home/luana-martins/.jnose_projects/guava/android/guava/src/com/google/common/graph/ValueGraph.java,422,32,80,0,0,0,1,0,0,49,2,0,0,0,8,1,0,0,13,3,0,0,0
+guava,EndpointPairTest,/home/luana-martins/.jnose_projects/guava/android/guava/src/com/google/common/graph/EndpointPair.java,250,23,36,6,0,0,5,0,0,0,1,0,0,0,4,0,0,0,3,2,0,0,7
+guava,ElementOrderTest,/home/luana-martins/.jnose_projects/guava/android/guava/src/com/google/common/graph/ElementOrder.java,255,17,31,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+guava,ImmutableNetworkTest,/home/luana-martins/.jnose_projects/guava/android/guava/src/com/google/common/graph/ImmutableNetwork.java,147,9,25,7,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,4
+guava,AbstractGraphTest,/home/luana-martins/.jnose_projects/guava/android/guava/src/com/google/common/graph/AbstractGraph.java,465,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+guava,GraphsTest,/home/luana-martins/.jnose_projects/guava/android/guava/src/com/google/common/graph/Graphs.java,671,61,69,3,0,0,6,0,0,0,3,0,0,0,0,3,0,0,6,9,0,0,6
+guava,TraverserTest,/home/luana-martins/.jnose_projects/guava/android/guava/src/com/google/common/graph/Traverser.java,1278,129,28,106,0,0,3,0,0,28,0,0,0,0,0,0,0,0,30,15,0,0,10
+guava,AbstractNetworkTest,/home/luana-martins/.jnose_projects/guava/android/guava/src/com/google/common/graph/AbstractNetwork.java,855,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+guava,ImmutableValueGraphTest,/home/luana-martins/.jnose_projects/guava/android/guava/src/com/google/common/graph/ImmutableValueGraph.java,179,12,24,10,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,5
+guava,ValueGraphTest,/home/luana-martins/.jnose_projects/guava/android/guava/src/com/google/common/graph/ValueGraph.java,482,38,96,0,0,0,1,0,0,49,2,0,0,0,8,2,0,0,16,4,0,0,0
+guava,EndpointPairTest,/home/luana-martins/.jnose_projects/guava/android/guava/src/com/google/common/graph/EndpointPair.java,250,23,36,6,0,0,5,0,0,0,1,0,0,0,4,0,0,0,3,2,0,0,7
+guava,ElementOrderTest,/home/luana-martins/.jnose_projects/guava/android/guava/src/com/google/common/graph/ElementOrder.java,255,17,31,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+guava,ImmutableNetworkTest,/home/luana-martins/.jnose_projects/guava/android/guava/src/com/google/common/graph/ImmutableNetwork.java,147,9,25,7,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,4
+guava,AbstractGraphTest,/home/luana-martins/.jnose_projects/guava/android/guava/src/com/google/common/graph/AbstractGraph.java,465,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+guava,GraphsTest,/home/luana-martins/.jnose_projects/guava/android/guava/src/com/google/common/graph/Graphs.java,672,61,71,3,0,0,6,0,0,0,3,0,0,0,0,3,0,0,6,9,0,0,6

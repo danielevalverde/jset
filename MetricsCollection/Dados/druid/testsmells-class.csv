@@ -1,0 +1,11 @@
+App,TestFileName,ProductionFileName,LOC,numberMethods,Assertion Roulette,Eager Test,Mystery Guest,Sleepy Test,Unknown Test,Redundant Assertion,Dependent Test,Magic Number Test,Conditional Test Logic,EmptyTest,General Fixture,IgnoredTest,Sensitive Equality,Verbose Test,Default Test,Resource Optimism,Duplicate Assert,Exception Catching Throwing,Constructor Initialization,Print Statement,Lazy Test
+druid,ConfigFilterTest,/home/luana-martins/.jnose_projects/druid/src/main/java/com/alibaba/druid/filter/config/ConfigFilter.java,130,8,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0
+druid,HighAvailableDataSourceTest,/home/luana-martins/.jnose_projects/druid/src/main/java/com/alibaba/druid/pool/ha/HighAvailableDataSource.java,49,2,3,2,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,3
+druid,ZookeeperNodeListenerTest,/home/luana-martins/.jnose_projects/druid/src/main/java/com/alibaba/druid/pool/ha/node/ZookeeperNodeListener.java,232,11,17,4,0,5,0,0,0,4,2,0,0,0,0,3,0,0,2,3,0,0,8
+druid,ZookeeperNodeRegisterTest,/home/luana-martins/.jnose_projects/druid/src/main/java/com/alibaba/druid/pool/ha/node/ZookeeperNodeRegister.java,107,10,9,1,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0
+druid,FileNodeListenerTest,/home/luana-martins/.jnose_projects/druid/src/main/java/com/alibaba/druid/pool/ha/node/FileNodeListener.java,128,5,13,4,1,2,0,0,0,5,0,0,0,0,0,1,0,1,1,0,0,0,5
+druid,PoolUpdaterTest,/home/luana-martins/.jnose_projects/druid/src/main/java/com/alibaba/druid/pool/ha/node/PoolUpdater.java,165,15,17,5,0,0,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,4
+druid,NodeEventTest,/home/luana-martins/.jnose_projects/druid/src/main/java/com/alibaba/druid/pool/ha/node/NodeEvent.java,43,1,13,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,5,0,0,0,0
+druid,NamedDataSourceSelectorTest,/home/luana-martins/.jnose_projects/druid/src/main/java/com/alibaba/druid/pool/ha/selector/NamedDataSourceSelector.java,65,7,6,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,3
+druid,StickyRandomDataSourceSelectorTest,/home/luana-martins/.jnose_projects/druid/src/main/java/com/alibaba/druid/pool/ha/selector/StickyRandomDataSourceSelector.java,51,3,3,3,0,3,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3
+druid,RandomDataSourceSelectorTest,/home/luana-martins/.jnose_projects/druid/src/main/java/com/alibaba/druid/pool/ha/selector/RandomDataSourceSelector.java,48,2,10,2,0,0,0,0,0,10,2,0,0,0,0,0,0,0,0,0,0,0,1

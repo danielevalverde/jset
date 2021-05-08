@@ -1,0 +1,6 @@
+App,TestFileName,ProductionFileName,LOC,numberMethods,Assertion Roulette,Eager Test,Mystery Guest,Sleepy Test,Unknown Test,Redundant Assertion,Dependent Test,Magic Number Test,Conditional Test Logic,EmptyTest,General Fixture,IgnoredTest,Sensitive Equality,Verbose Test,Default Test,Resource Optimism,Duplicate Assert,Exception Catching Throwing,Constructor Initialization,Print Statement,Lazy Test
+NewPipe,ErrorActivityTest,/home/luana-martins/.jnose_projects/NewPipe/app/src/main/java/org/schabi/newpipe/error/ErrorActivity.java,35,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+NewPipe,ListHelperTest,/home/luana-martins/.jnose_projects/NewPipe/app/src/main/java/org/schabi/newpipe/util/ListHelper.java,334,14,71,0,0,0,0,0,0,36,3,0,0,0,0,4,0,0,13,0,0,0,3
+NewPipe,ImportExportJsonHelperTest,/home/luana-martins/.jnose_projects/NewPipe/app/src/main/java/org/schabi/newpipe/local/subscription/services/ImportExportJsonHelper.java,125,6,1,0,0,0,0,0,0,0,6,0,0,1,0,0,0,0,1,1,0,0,1
+NewPipe,TabTest,/home/luana-martins/.jnose_projects/NewPipe/app/src/main/java/org/schabi/newpipe/settings/tabs/Tab.java,20,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+NewPipe,TabsJsonHelperTest,/home/luana-martins/.jnose_projects/NewPipe/app/src/main/java/org/schabi/newpipe/settings/tabs/TabsJsonHelper.java,134,8,17,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,2,1,0,0,2

@@ -1,0 +1,14 @@
+App,TestFileName,ProductionFileName,LOC,numberMethods,Assertion Roulette,Eager Test,Mystery Guest,Sleepy Test,Unknown Test,Redundant Assertion,Dependent Test,Magic Number Test,Conditional Test Logic,EmptyTest,General Fixture,IgnoredTest,Sensitive Equality,Verbose Test,Default Test,Resource Optimism,Duplicate Assert,Exception Catching Throwing,Constructor Initialization,Print Statement,Lazy Test
+HikariCP,CodaHaleMetricsTrackerTest,/home/luana-martins/.jnose_projects/HikariCP/src/main/java/com/zaxxer/hikari/metrics/dropwizard/CodaHaleMetricsTracker.java,44,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HikariCP,MicrometerMetricsTrackerTest,/home/luana-martins/.jnose_projects/HikariCP/src/main/java/com/zaxxer/hikari/metrics/micrometer/MicrometerMetricsTracker.java,39,4,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HikariCP,PrometheusHistogramMetricsTrackerFactoryTest,/home/luana-martins/.jnose_projects/HikariCP/src/main/java/com/zaxxer/hikari/metrics/prometheus/PrometheusHistogramMetricsTrackerFactory.java,77,7,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+HikariCP,PrometheusMetricsTrackerFactoryTest,/home/luana-martins/.jnose_projects/HikariCP/src/main/java/com/zaxxer/hikari/metrics/prometheus/PrometheusMetricsTrackerFactory.java,73,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+HikariCP,PrometheusMetricsTrackerTest,/home/luana-martins/.jnose_projects/HikariCP/src/main/java/com/zaxxer/hikari/metrics/prometheus/PrometheusMetricsTracker.java,305,16,30,1,0,0,3,0,0,18,0,0,0,0,0,2,0,0,2,4,0,0,0
+HikariCP,PrometheusHistogramMetricsTrackerTest,/home/luana-martins/.jnose_projects/HikariCP/src/main/java/com/zaxxer/hikari/metrics/prometheus/PrometheusHistogramMetricsTracker.java,176,12,5,0,0,0,3,0,0,5,0,0,0,0,0,0,0,0,0,3,0,0,0
+HikariCP,HikariCPCollectorTest,/home/luana-martins/.jnose_projects/HikariCP/src/main/java/com/zaxxer/hikari/metrics/prometheus/HikariCPCollector.java,221,10,44,1,0,0,0,0,0,37,0,0,0,0,0,1,0,0,0,5,0,0,0
+HikariCP,TestConcurrentBag,/home/luana-martins/.jnose_projects/HikariCP/src/main/java/com/zaxxer/hikari/util/ConcurrentBag.java,117,5,7,1,0,0,0,0,0,2,0,0,0,0,1,1,0,0,1,1,0,0,0
+HikariCP,MetricsTrackerTest,/home/luana-martins/.jnose_projects/HikariCP/src/main/java/com/zaxxer/hikari/metrics/MetricsTracker.java,90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+HikariCP,UtilityElfTest,/home/luana-martins/.jnose_projects/HikariCP/src/main/java/com/zaxxer/hikari/util/UtilityElf.java,55,4,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+HikariCP,ClockSourceTest,/home/luana-martins/.jnose_projects/HikariCP/src/main/java/com/zaxxer/hikari/util/ClockSource.java,60,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HikariCP,PropertyElfTest,/home/luana-martins/.jnose_projects/HikariCP/src/main/java/com/zaxxer/hikari/util/PropertyElf.java,44,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+HikariCP,TestFastList,/home/luana-martins/.jnose_projects/HikariCP/src/main/java/com/zaxxer/hikari/util/FastList.java,176,9,9,6,0,0,1,0,0,6,11,0,0,0,0,0,0,0,0,0,0,0,20

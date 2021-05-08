@@ -1,0 +1,21 @@
+App,TestFileName,ProductionFileName,LOC,numberMethods,Assertion Roulette,Eager Test,Mystery Guest,Sleepy Test,Unknown Test,Redundant Assertion,Dependent Test,Magic Number Test,Conditional Test Logic,EmptyTest,General Fixture,IgnoredTest,Sensitive Equality,Verbose Test,Default Test,Resource Optimism,Duplicate Assert,Exception Catching Throwing,Constructor Initialization,Print Statement,Lazy Test
+retrofit,HttpExceptionTest,/home/luana-martins/.jnose_projects/retrofit/retrofit-adapters/rxjava/src/main/java/retrofit2/adapter/rxjava/HttpException.java,42,2,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+retrofit,CallAdapterTest,/home/luana-martins/.jnose_projects/retrofit/retrofit/src/main/java/retrofit2/CallAdapter.java,102,5,16,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2,3,0,0,4
+retrofit,PlatformTest,/home/luana-martins/.jnose_projects/retrofit/retrofit/src/main/java/retrofit2/Platform.java,27,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+retrofit,DefaultCallAdapterFactoryTest,/home/luana-martins/.jnose_projects/retrofit/retrofit/src/main/java/retrofit2/DefaultCallAdapterFactory.java,158,9,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2
+retrofit,ResponseTest,/home/luana-martins/.jnose_projects/retrofit/retrofit/src/main/java/retrofit2/Response.java,218,17,62,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,9
+retrofit,RequestFactoryTest,/home/luana-martins/.jnose_projects/retrofit/retrofit/src/main/java/retrofit2/RequestFactory.java,3300,172,455,0,0,0,0,0,0,0,0,0,0,1,79,7,0,0,9,70,0,0,0
+retrofit,CompletableFutureCallAdapterFactoryTest,/home/luana-martins/.jnose_projects/retrofit/retrofit/src/main/java/retrofit2/CompletableFutureCallAdapterFactory.java,106,9,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+retrofit,PlatformTest,/home/luana-martins/.jnose_projects/retrofit/retrofit/src/main/java/retrofit2/Platform.java,26,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+retrofit,GuavaCallAdapterFactoryTest,/home/luana-martins/.jnose_projects/retrofit/retrofit-adapters/guava/src/main/java/retrofit2/adapter/guava/GuavaCallAdapterFactory.java,109,9,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+retrofit,ResultTest,/home/luana-martins/.jnose_projects/retrofit/retrofit-adapters/rxjava/src/main/java/retrofit2/adapter/rxjava/Result.java,63,4,10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3
+retrofit,RxJava3CallAdapterFactoryTest,/home/luana-martins/.jnose_projects/retrofit/retrofit-adapters/rxjava3/src/main/java/retrofit2/adapter/rxjava3/RxJava3CallAdapterFactory.java,282,10,55,0,0,0,0,0,0,0,0,0,1,0,0,4,0,0,6,13,0,0,1
+retrofit,ScalaCallAdapterFactoryTest,/home/luana-martins/.jnose_projects/retrofit/retrofit-adapters/scala/src/main/java/retrofit2/adapter/scala/ScalaCallAdapterFactory.java,107,9,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+retrofit,RxJava2CallAdapterFactoryTest,/home/luana-martins/.jnose_projects/retrofit/retrofit-adapters/rxjava2/src/main/java/retrofit2/adapter/rxjava2/RxJava2CallAdapterFactory.java,282,10,55,0,0,0,0,0,0,0,0,0,1,0,0,4,0,0,6,13,0,0,1
+retrofit,ResultTest,/home/luana-martins/.jnose_projects/retrofit/retrofit-adapters/rxjava/src/main/java/retrofit2/adapter/rxjava/Result.java,63,4,10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3
+retrofit,Java8CallAdapterFactoryTest,/home/luana-martins/.jnose_projects/retrofit/retrofit-adapters/java8/src/main/java/retrofit2/adapter/java8/Java8CallAdapterFactory.java,109,9,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+retrofit,ResultTest,/home/luana-martins/.jnose_projects/retrofit/retrofit-adapters/rxjava/src/main/java/retrofit2/adapter/rxjava/Result.java,63,4,10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3
+retrofit,RxJavaCallAdapterFactoryTest,/home/luana-martins/.jnose_projects/retrofit/retrofit-adapters/rxjava/src/main/java/retrofit2/adapter/rxjava/RxJavaCallAdapterFactory.java,181,10,29,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,6,7,0,0,1
+retrofit,MockRetrofitTest,/home/luana-martins/.jnose_projects/retrofit/retrofit-mock/src/main/java/retrofit2/mock/MockRetrofit.java,79,11,11,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3
+retrofit,CallsTest,/home/luana-martins/.jnose_projects/retrofit/retrofit-mock/src/main/java/retrofit2/mock/Calls.java,339,16,44,16,0,0,0,0,0,4,0,0,0,0,0,2,0,0,0,7,0,0,9
+retrofit,NetworkBehaviorTest,/home/luana-martins/.jnose_projects/retrofit/retrofit-mock/src/main/java/retrofit2/mock/NetworkBehavior.java,234,15,37,7,0,0,0,0,0,3,10,0,0,0,0,0,0,0,6,12,0,0,6

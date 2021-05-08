@@ -1,0 +1,11 @@
+App,TestFileName,ProductionFileName,LOC,numberMethods,Assertion Roulette,Eager Test,Mystery Guest,Sleepy Test,Unknown Test,Redundant Assertion,Dependent Test,Magic Number Test,Conditional Test Logic,EmptyTest,General Fixture,IgnoredTest,Sensitive Equality,Verbose Test,Default Test,Resource Optimism,Duplicate Assert,Exception Catching Throwing,Constructor Initialization,Print Statement,Lazy Test
+picasso,PicassoDrawableTest,/home/luana-martins/.jnose_projects/picasso/picasso/src/main/java/com/squareup/picasso3/PicassoDrawable.java,59,6,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+picasso,DeferredRequestCreatorTest,/home/luana-martins/.jnose_projects/picasso/picasso/src/main/java/com/squareup/picasso3/DeferredRequestCreator.java,157,11,5,8,0,0,7,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3
+picasso,DispatcherTest,/home/luana-martins/.jnose_projects/picasso/picasso/src/main/java/com/squareup/picasso3/Dispatcher.java,592,61,56,3,0,0,11,0,0,0,0,0,1,0,0,0,0,0,4,0,0,0,2
+picasso,PicassoTest,/home/luana-martins/.jnose_projects/picasso/picasso/src/main/java/com/squareup/picasso3/Picasso.java,596,59,71,12,0,0,9,0,0,0,1,0,1,0,0,0,0,1,20,14,0,0,11
+picasso,RequestCreatorTest,/home/luana-martins/.jnose_projects/picasso/picasso/src/main/java/com/squareup/picasso3/RequestCreator.java,869,86,33,77,0,0,12,0,0,0,0,0,0,0,0,0,0,0,4,47,0,0,16
+picasso,UtilsTest,/home/luana-martins/.jnose_projects/picasso/picasso/src/main/java/com/squareup/picasso3/Utils.java,88,5,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+picasso,NetworkRequestHandlerTest,/home/luana-martins/.jnose_projects/picasso/picasso/src/main/java/com/squareup/picasso3/NetworkRequestHandler.java,232,17,15,0,0,0,0,0,0,4,1,0,0,0,1,0,0,0,1,0,0,0,2
+picasso,BitmapUtilsTest,/home/luana-martins/.jnose_projects/picasso/picasso/src/main/java/com/squareup/picasso3/BitmapUtils.java,123,11,23,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+picasso,MediaStoreRequestHandlerTest,/home/luana-martins/.jnose_projects/picasso/picasso/src/main/java/com/squareup/picasso3/MediaStoreRequestHandler.java,124,10,9,0,0,0,2,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,1
+picasso,PollexorRequestTransformerTest,/home/luana-martins/.jnose_projects/picasso/picasso-pollexor/src/main/java/com/squareup/picasso3/pollexor/PollexorRequestTransformer.java,133,18,28,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,1

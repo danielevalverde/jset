@@ -1,0 +1,12 @@
+App,TestFileName,ProductionFileName,LOC,numberMethods,Assertion Roulette,Eager Test,Mystery Guest,Sleepy Test,Unknown Test,Redundant Assertion,Dependent Test,Magic Number Test,Conditional Test Logic,EmptyTest,General Fixture,IgnoredTest,Sensitive Equality,Verbose Test,Default Test,Resource Optimism,Duplicate Assert,Exception Catching Throwing,Constructor Initialization,Print Statement,Lazy Test
+xxl-job,ExecutorBizTest,/home/luana-martins/.jnose_projects/xxl-job/xxl-job-core/src/main/java/com/xxl/job/core/biz/ExecutorBiz.java,105,7,14,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+xxl-job,AdminBizTest,/home/luana-martins/.jnose_projects/xxl-job/xxl-job-core/src/main/java/com/xxl/job/core/biz/AdminBiz.java,75,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+xxl-job,JacksonUtilTest,/home/luana-martins/.jnose_projects/xxl-job/xxl-job-admin/src/main/java/com/xxl/job/admin/core/util/JacksonUtil.java,40,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+xxl-job,JobInfoControllerTest,/home/luana-martins/.jnose_projects/xxl-job/xxl-job-admin/src/main/java/com/xxl/job/admin/controller/JobInfoController.java,47,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+xxl-job,I18nUtilTest,/home/luana-martins/.jnose_projects/xxl-job/xxl-job-admin/src/main/java/com/xxl/job/admin/core/util/I18nUtil.java,22,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+xxl-job,XxlJobLogDaoTest,/home/luana-martins/.jnose_projects/xxl-job/xxl-job-admin/src/main/java/com/xxl/job/admin/dao/XxlJobLogDao.java,52,2,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+xxl-job,XxlJobLogGlueDaoTest,/home/luana-martins/.jnose_projects/xxl-job/xxl-job-admin/src/main/java/com/xxl/job/admin/dao/XxlJobLogGlueDao.java,36,2,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+xxl-job,XxlJobGroupDaoTest,/home/luana-martins/.jnose_projects/xxl-job/xxl-job-admin/src/main/java/com/xxl/job/admin/dao/XxlJobGroupDao.java,44,2,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+xxl-job,XxlJobRegistryDaoTest,/home/luana-martins/.jnose_projects/xxl-job/xxl-job-admin/src/main/java/com/xxl/job/admin/dao/XxlJobRegistryDao.java,30,2,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+xxl-job,XxlJobInfoDaoTest,/home/luana-martins/.jnose_projects/xxl-job/xxl-job-admin/src/main/java/com/xxl/job/admin/dao/XxlJobInfoDao.java,83,3,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1
+xxl-job,FramelessApplicationTest,/home/luana-martins/.jnose_projects/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-frameless/src/main/java/com/xxl/job/executor/sample/frameless/FramelessApplication.java,12,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0

@@ -1,0 +1,10 @@
+App,TestFileName,ProductionFileName,LOC,numberMethods,Assertion Roulette,Eager Test,Mystery Guest,Sleepy Test,Unknown Test,Redundant Assertion,Dependent Test,Magic Number Test,Conditional Test Logic,EmptyTest,General Fixture,IgnoredTest,Sensitive Equality,Verbose Test,Default Test,Resource Optimism,Duplicate Assert,Exception Catching Throwing,Constructor Initialization,Print Statement,Lazy Test
+lottie-android,PerformanceTrackerTest,/home/luana-martins/.jnose_projects/lottie-android/lottie/src/main/java/com/airbnb/lottie/PerformanceTracker.java,75,7,17,5,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,2
+lottie-android,KeyPathTest,/home/luana-martins/.jnose_projects/lottie-android/lottie/src/main/java/com/airbnb/lottie/model/KeyPath.java,132,69,0,0,0,0,0,1,0,62,0,0,1,0,0,0,0,0,0,0,0,0,0
+lottie-android,MeanCalculatorTest,/home/luana-martins/.jnose_projects/lottie-android/lottie/src/main/java/com/airbnb/lottie/utils/MeanCalculator.java,61,8,6,5,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,2
+lottie-android,GammaEvaluatorTest,/home/luana-martins/.jnose_projects/lottie-android/lottie/src/main/java/com/airbnb/lottie/utils/GammaEvaluator.java,16,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+lottie-android,LottieCompositionCacheTest,/home/luana-martins/.jnose_projects/lottie-android/lottie/src/main/java/com/airbnb/lottie/model/LottieCompositionCache.java,45,6,3,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2
+lottie-android,MarkerTest,/home/luana-martins/.jnose_projects/lottie-android/lottie/src/main/java/com/airbnb/lottie/model/Marker.java,14,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+lottie-android,LottieTaskTest,/home/luana-martins/.jnose_projects/lottie-android/lottie/src/main/java/com/airbnb/lottie/LottieTask.java,95,7,0,3,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+lottie-android,LottieDrawableTest,/home/luana-martins/.jnose_projects/lottie-android/lottie/src/main/java/com/airbnb/lottie/LottieDrawable.java,106,9,7,6,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,7
+lottie-android,LottieCompositionFactoryTest,/home/luana-martins/.jnose_projects/lottie-android/lottie/src/main/java/com/airbnb/lottie/LottieCompositionFactory.java,138,16,18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5

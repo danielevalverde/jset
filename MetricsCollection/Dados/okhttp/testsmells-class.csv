@@ -1,0 +1,2 @@
+App,TestFileName,ProductionFileName,LOC,numberMethods,Assertion Roulette,Eager Test,Mystery Guest,Sleepy Test,Unknown Test,Redundant Assertion,Dependent Test,Magic Number Test,Conditional Test Logic,EmptyTest,General Fixture,IgnoredTest,Sensitive Equality,Verbose Test,Default Test,Resource Optimism,Duplicate Assert,Exception Catching Throwing,Constructor Initialization,Print Statement,Lazy Test
+okhttp,SocksProxyTest,/home/luana-martins/.jnose_projects/okhttp/okhttp/src/test/java/okhttp3/SocksProxy.java,114,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
